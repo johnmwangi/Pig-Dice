@@ -1,15 +1,15 @@
-# QUIZ-BOARD:
+# PIG DICE:
 
-#### A quiz with inbuilt answers that provide the option for the user to select the correct answer, 10/2/2019
+#### Application release date;
+1st march, 2019.
 
-#### List of contributors:
+#### Pig dice by;
 
-By John mwangi as Auther and Janetrix.
+John Mwangi.
 
 ## Description
 
-Quiz-board project is a project that come with couple of quesitons and with couple of radio type too which provides a plat-form for the user to select answer and after the selection of the correct answer, comes with a submit button which helps the user to know the results.
-meanwhile: checkout it out! <https://johnmwangi.github.io/Quiz-Board./>.
+Pig Dice is web application game that allows two players to play against each other, the application declares the winner by alerting the moment one of the player hit a 100 or exceed, the players can restart the game by clicking NewGame. Give it a try:link
 
 ## Setup/Installation Requirements
 
@@ -34,10 +34,18 @@ Markdown Syntax
 
 ## BDD.
 
-| User Input                                                     | Expectation                                                             |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Chooce the correct answer by selecting it on the radio button. | on click submit the button proceeds to give the results of the quiz.    |
-| checkout refresh button below the quiz-board.                  | on click the refresh button refresh the quiz-board for another attempt. |
+| Actions.                                                   | Expectations.                                                                   |
+|------------------------------------------------------------|---------------------------------------------------------------------------------|
+| When the name is filled in the field text.                 | It's accepted and saved to the game, the players can also decide to be anonymou |
+| On click start button.                                     | The game identifies players by name to begin the game.                          |
+| On click start button the image moves to the game section. | To show the point each side of the dice contain.                                |
+| On click Roll.                                             | The dice roll while saving the round total.                                     |
+| On click Hold.                                             | The game alerts that your turn is over.                                         |
+| On click ok button.                                        | The score is saved before the next player plays.                                |
+| If the total of any of the players hit 100 or exceed.      | The player gets alert to be the winner.                                         |
+| On click OK button.                                        | The total score is displayed.                                                   |
+| On click the New game button.                              | It takes back the player save the new data i.e name.                            |
+| On click start button.                                     | The new game begins.                                                            |
 
 ## Support and contact details
 
