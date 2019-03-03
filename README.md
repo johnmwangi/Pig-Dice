@@ -9,7 +9,7 @@ John Mwangi.
 
 ## Description
 
-Pig Dice is web application game that allows two players to play against each other, the application declares the winner by alerting the moment one of the player hit a 100 or exceed, the players can restart the game by clicking NewGame. Give it a try:link
+Pig Dice is web application game that allows two players to play against each other, the application declares the winner by alerting the moment one of the player hit a 100 or exceed, the players can restart the game by clicking NewGame. Give it a try: link
 
 ## Setup/Installation Requirements
 
