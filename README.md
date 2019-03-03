@@ -37,9 +37,9 @@ Markdown Syntax
 | On click the New game button.                         | It takes back the player save the new data i.e name.                              |
 | On click start button.                                | The new game begins.                                                              |
 
-## Installation requirements:
-Web browser
-Internet connection Offline copy available if you fork and save in your computer as a file
+## Installation requirements
+Web browser.
+Internet connection Offline copy available if you fork and save in your computer as a file.
 
 
 ## Support and contact details
