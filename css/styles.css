@@ -6,8 +6,8 @@ h1 {
 
 .jumbotron {
   font-style: italic;
-  margin-top: 8px;
-  margin-bottom: 10;
+  margin-top: 4px;
+  margin-bottom: 10px;
   background-color: grey;
 }
 
@@ -27,8 +27,8 @@ h2 {
 
 .hero-image {
   position: absolute;
-  top: 74%;
-  left: 39%;
+  top: -8%;
+  left: 45%;
   transform: translate(-27%, 80%);
 }
 
