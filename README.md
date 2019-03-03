@@ -1,7 +1,6 @@
 # PIG DICE:
 
 #### Application release date;
-
 1st march, 2019.
 
 #### Pig dice by;
@@ -36,10 +35,9 @@ Markdown Syntax
 ## BDD.
 
 | Actions.                                                   | Expectations.                                                                   |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------- |
+|------------------------------------------------------------|---------------------------------------------------------------------------------|
 | When the name is filled in the field text.                 | It's accepted and saved to the game, the players can also decide to be anonymou |
 | On click start button.                                     | The game identifies players by name to begin the game.                          |
-| On click start button the image moves to the game section. | To show the point each side of the dice contain.                                |
 | On click Roll.                                             | The dice roll while saving the round total.                                     |
 | On click Hold.                                             | The game alerts that your turn is over.                                         |
 | On click ok button.                                        | The score is saved before the next player plays.                                |
