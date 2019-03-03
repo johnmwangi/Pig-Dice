@@ -6,6 +6,8 @@ h1 {
 
 .jumbotron {
   font-style: italic;
+  margin-top:8px;
+  margin-bottom: 10%;
   background-color: grey;
 }
 
