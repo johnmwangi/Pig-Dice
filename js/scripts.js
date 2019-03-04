@@ -29,14 +29,14 @@ Player.prototype.rollone = function() {
 Player.prototype.hold = function() {
   this.totalscore += this.tempscore;
   this.tempscore = 0;
-  // this.changeturn();
+  // this.changeturn
   alert(this.playerName + ", your turn is over, pass the mouse!");
 }
 
 // check for 100
 Player.prototype.winnerCheck = function() {
   if (this.totalscore >= 100) {
-    alert(this.playerName + " Bravo! Bravo! Bravooooo!");
+    alert(this.playerName + " Bravo! Bravo! Bravooooo!You are a WINNER!");
   }
 }
 
