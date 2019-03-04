@@ -48,4 +48,4 @@ Let people know what to do if they run into any issues or have questions, ideas 
 
 ### License
 
-Copyright (c) year:2019 john mwangi
+Copyright (c) year:2019 john mwangi.
